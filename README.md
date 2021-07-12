@@ -292,7 +292,7 @@ Caso tenhas armazenado esse token no indice vToken, abaixo temos as rotas defini
 
 ## Licença
 
-Copyright (c) <2020> <strong> Miguel Leite <strong>
+Copyright (c) 2021 <strong> Miguel Leite <strong>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
