@@ -287,7 +287,7 @@ Caso tenhas armazenado esse token no indice vToken, abaixo temos as rotas defini
 
 <h3 id="Miguelleite"> Miguel Leite <h3>
 <h1 align="left">
-  <img alt="Miguelleite" title="#Miguelleite" src="./public/assets/miguelleite.jpg" />
+  <img alt="Miguelleite" width="150" title="#Miguelleite" src="./public/assets/miguelleite.jpg" />
 </h1>
 
 ## Licença
